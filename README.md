@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ohsaya
 - 👀 I’m interested in history, anthropology, k-entertainment, reading, learning new things, chocolate, music
 - 🌱 I’m currently learning via The Odin Project and trying to supplement with sololearn and freecodecamp
-- 📫 DM @ohsayaa on Twitter to reach me
+-
 
 <!---
 ohsaya/ohsaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
